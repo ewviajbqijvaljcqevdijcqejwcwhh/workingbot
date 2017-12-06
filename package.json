@@ -1,0 +1,13 @@
+{
+  "name": "Volky",
+  "description": "This is a Discord Bot",
+  "version": "4.92",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependecies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
